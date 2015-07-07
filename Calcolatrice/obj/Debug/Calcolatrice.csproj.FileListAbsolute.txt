@@ -1,0 +1,10 @@
+C:\Visual Studio Projects\Calcolatrice\Calcolatrice\bin\Debug\Calcolatrice.exe.config
+C:\Visual Studio Projects\Calcolatrice\Calcolatrice\bin\Debug\Calcolatrice.exe
+C:\Visual Studio Projects\Calcolatrice\Calcolatrice\bin\Debug\Calcolatrice.pdb
+C:\Visual Studio Projects\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.Properties.Resources.resources
+C:\Visual Studio Projects\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.csproj.GenerateResource.Cache
+C:\Visual Studio Projects\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.exe
+C:\Visual Studio Projects\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.pdb
+C:\Visual Studio Projects\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.Implementazione1.Calcolatrice.resources
+C:\Visual Studio Projects\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.Implementazione2.FormCalcolatrice.resources
+C:\Visual Studio Projects\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.Implementazione3.FormCalcolatrice.resources
