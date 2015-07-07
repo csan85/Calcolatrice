@@ -46,7 +46,7 @@ namespace Calcolatrice.Implementazione1
             }
             else
             {
-                this.labelTotale.Text = String.Format("TOTALE: {0}", this.textNumero1.Value + this.textNumero2.Value);
+                this.labelTotale.Text = String.Format("TOTALE: {0}", this.textNumero1.Value / this.textNumero2.Value);
             }
         }
 
